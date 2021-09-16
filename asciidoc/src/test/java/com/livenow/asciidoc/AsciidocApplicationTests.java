@@ -9,5 +9,4 @@ class AsciidocApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
